@@ -1,5 +1,5 @@
 <div>
-  <img align="right" alt="icon" height="150" width="150" src="https://avatars.githubusercontent.com/u/25714058?v=4">
+  <img align="right" alt="icon" height="150" src="https://cdn.discordapp.com/attachments/835910318894874654/853387152342777856/hydra_dribbble.gif">
   <h2> Hey people, whats up? :construction_worker:</h2>
   <p align="left">📚 I'm currently studying web software development at Trybe and Systems Analysis and Development at PUC;</p>
   <p align="left">🌱 I’m currently learning C#/.NET Framework/.NET Core/ASP .NET</p>
