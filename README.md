@@ -1,8 +1,8 @@
 <div>
   <img align="right" alt="icon" height="150" src="https://cdn.discordapp.com/attachments/835910318894874654/853387152342777856/hydra_dribbble.gif">
   <h2> Hey people, whats up? :construction_worker:</h2>
-  <p align="left">📚 I'm currently studying web software development at Trybe and Systems Analysis and Development at PUC;</p>
-  <p align="left">🌱 I’m currently learning C#/.NET Framework/.NET Core/ASP .NET</p>
+  <p align="left">📚👨🏻‍🎓 I'm currently studying Systems Analysis and Development at Pontifical Catholic University of Minas Gerais.</p>
+  <p align="left">✨ I currently study C#(.NET Core), SQL Server, I have solid knowledge in front-end such as: HTML5, CSS3, JavaScript.</p>
 </div>
 
 ##
