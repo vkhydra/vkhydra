@@ -1,5 +1,5 @@
 <div>
-  <h2> Hey people, whats up? :technologist:</h2>
+  <h2> Hi, Coders, whats up? :technologist:</h2>
   <p align="left">📚👨🏻‍🎓 I'm Victor Bruno Kulessa, I have a degree in Systems Analysis and Development. I worked as a full-stack developer for 9 months at Kultech, playing a key role in various technological solutions, including websites, APIs, and the development of desktop and mobile applications. I also have experience in data analysis, having worked at the Brazilian bank Itaú Unibanco for 1 year and 7 months. There, I developed reports and dashboards, and worked on the development of ETLs. However, I found my passion in the development area, where I can create solutions that help people in their daily lives.</p>
 </div>
  <div align="center">
