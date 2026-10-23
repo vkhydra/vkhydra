@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Victor+Kulessa+%F0%9F%91%8B;Software+Engineer+%40+HCFMUSP;Health+Tech+%7C+C%23+%7C+.NET;Clean+Architecture+%7C+DDD+%7C+SOLID" alt="Typing SVG" />
+  <img src="assets/monitor.svg" alt="Victor Kulessa · Software Engineer @ HCFMUSP" width="100%" />
 </div>
 
 ---
 
-### 👨‍💻 About me
+### 🩺 Prontuário
 
 ```csharp
 var victor = new Developer
@@ -23,35 +23,35 @@ var victor = new Developer
 
 ---
 
-### 🛠️ Tech Stack
+### 💊 Stack
 
 **Back-end**
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-0b1114?style=for-the-badge&logo=csharp&logoColor=3cff8f)
+![.NET](https://img.shields.io/badge/.NET-0b1114?style=for-the-badge&logo=dotnet&logoColor=3cff8f)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-0b1114?style=for-the-badge&logo=dotnet&logoColor=3cff8f)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-0b1114?style=for-the-badge&logo=dotnet&logoColor=3cff8f)
 
 **Front-end**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-0b1114?style=for-the-badge&logo=react&logoColor=3cff8f)
+![Next.js](https://img.shields.io/badge/Next.js-0b1114?style=for-the-badge&logo=nextdotjs&logoColor=3cff8f)
+![TypeScript](https://img.shields.io/badge/TypeScript-0b1114?style=for-the-badge&logo=typescript&logoColor=3cff8f)
 
 **Banco de dados**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b1114?style=for-the-badge&logo=postgresql&logoColor=3cff8f)
+![SQL Server](https://img.shields.io/badge/SQL_Server-0b1114?style=for-the-badge&logo=microsoftsqlserver&logoColor=3cff8f)
+![Oracle](https://img.shields.io/badge/Oracle-0b1114?style=for-the-badge&logo=oracle&logoColor=3cff8f)
 
 **Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0b1114?style=for-the-badge&logo=amazonaws&logoColor=3cff8f)
+![Docker](https://img.shields.io/badge/Docker-0b1114?style=for-the-badge&logo=docker&logoColor=3cff8f)
 
 ---
 
-### 🚀 Featured Projects
+### 📋 Projetos
 
 #### [🏥 Conferi](https://github.com/vkhydra/conferi)
 > Confere a conta da internação **antes** de enviar ao SUS: valida a AIH contra a tabela SIGTAP e aponta o que seria glosado.
@@ -81,13 +81,13 @@ var victor = new Developer
 
 ---
 
-### 📬 Contact
+### 📟 Encaminhamento
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-victor.kulessa.com.br-6E40C9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://victor.kulessa.com.br)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-kulessa/)
-[![Email](https://img.shields.io/badge/Email-victor.kulessa%40outlook.com-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:victor.kulessa@outlook.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/401110489083543572)
+[![Website](https://img.shields.io/badge/Website-victor.kulessa.com.br-0b1114?style=for-the-badge&logo=googlechrome&logoColor=3cff8f)](https://victor.kulessa.com.br)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0b1114?style=for-the-badge&logo=linkedin&logoColor=3cff8f)](https://www.linkedin.com/in/victor-kulessa/)
+[![Email](https://img.shields.io/badge/Email-victor.kulessa%40outlook.com-0b1114?style=for-the-badge&logo=microsoftoutlook&logoColor=3cff8f)](mailto:victor.kulessa@outlook.com)
+[![Discord](https://img.shields.io/badge/Discord-0b1114?style=for-the-badge&logo=discord&logoColor=3cff8f)](https://discordapp.com/users/401110489083543572)
 
 </div>
