@@ -51,6 +51,15 @@ var victor = new Developer
 
 ---
 
+### 📈 Sinais vitais
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkhydra&amp;layout=compact&amp;langs_count=6&amp;exclude_repo=vkhydra,crossy-cow&amp;bg_color=05080a&amp;border_color=1c2a2f&amp;title_color=3cff8f&amp;text_color=cfe9dc&amp;custom_title=SINAIS%20VITAIS%20%C2%B7%20LINGUAGENS&amp;card_width=420&amp;hide_border=false&amp;border_radius=10" alt="Linguagens mais usadas" height="180" />
+  <img src="" alt="Sequência de commits" height="180" />
+</div>
+
+---
+
 ### 📋 Projetos
 
 #### [🏥 Conferi](https://github.com/vkhydra/conferi)
