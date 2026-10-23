@@ -55,7 +55,7 @@ var victor = new Developer
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkhydra&amp;layout=compact&amp;langs_count=6&amp;exclude_repo=vkhydra,crossy-cow&amp;bg_color=05080a&amp;border_color=1c2a2f&amp;title_color=3cff8f&amp;text_color=cfe9dc&amp;custom_title=SINAIS%20VITAIS%20%C2%B7%20LINGUAGENS&amp;card_width=420&amp;hide_border=false&amp;border_radius=10" alt="Linguagens mais usadas" height="180" />
-  <img src="" alt="Sequência de commits" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=vkhydra&amp;background=05080a&amp;border=1c2a2f&amp;stroke=1c2a2f&amp;ring=3cff8f&amp;fire=ff4d5e&amp;currStreakNum=3cff8f&amp;sideNums=cfe9dc&amp;currStreakLabel=3cff8f&amp;sideLabels=6b8a80&amp;dates=6b8a80&amp;border_radius=10&amp;locale=pt_BR" alt="Sequência de commits" height="180" />
 </div>
 
 ---
